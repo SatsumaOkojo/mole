@@ -19,6 +19,7 @@ import { RouterLink } from "vue-router";
   height: 35%;
   margin-top: 2em;
   animation: fluffy1 3s ease infinite;
+  filter: drop-shadow(3px 3px 5px #916632b3);
 }
 @keyframes fluffy1 {
   0% {
